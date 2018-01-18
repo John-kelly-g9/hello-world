@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+This is a repository for repository's sake. Nothing to see here folks.
+Move along.
